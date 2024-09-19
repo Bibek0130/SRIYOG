@@ -1,6 +1,9 @@
 # SRIYOG
 Opensource Project of SRIYOG based on Flutter &amp; Firebase. 
 
+![Screenshot 2024-09-19 at 19 09 29](https://github.com/user-attachments/assets/9e741bf3-6939-4cdb-a739-9e8d14a7480c)
+
+
 Figma Dev Link : https://www.figma.com/design/4VVVfHTJE2zzrC3Mp1ckhx/Mobile-Application?node-id=0-1&m=dev&t=WJEf7LixmXoY1hbG-1
 
 Who We Are
@@ -18,19 +21,19 @@ But agencies are creating a hectic schedule, paying low to their employees and c
 
 SRIYOG aims to achieve several impactful outcomes:
 
-## Employment Opportunities: The platform creates avenues for self-employment and helps individuals generate daily and monthly income through freelancing opportunities across various service sectors.
+### Employment Opportunities: The platform creates avenues for self-employment and helps individuals generate daily and monthly income through freelancing opportunities across various service sectors.
 
 
-## Women Empowerment: SRIYOG promotes gender equality by facilitating women's active participation in the workforce, empowering them economically through access to job opportunities and skill utilization.
+### Women Empowerment: SRIYOG promotes gender equality by facilitating women's active participation in the workforce, empowering them economically through access to job opportunities and skill utilization.
 
 
-## Digitization of Workforce: By fostering digital literacy and encouraging the adoption of technology among service providers, SRIYOG enhances efficiency in service delivery and supports the digital transformation of the workforce.
+### Digitization of Workforce: By fostering digital literacy and encouraging the adoption of technology among service providers, SRIYOG enhances efficiency in service delivery and supports the digital transformation of the workforce.
 
 
-## Reduced Migration: By providing viable local employment opportunities, SRIYOG aims to mitigate the need for individuals to seek employment abroad, thereby contributing to local economic growth and stability.
+### Reduced Migration: By providing viable local employment opportunities, SRIYOG aims to mitigate the need for individuals to seek employment abroad, thereby contributing to local economic growth and stability.
 
 
-## Improved Service Experience: The platform ensures a reliable pool of skilled professionals, enhancing customer satisfaction by matching service seekers with competent providers efficiently and effectively.
+### Improved Service Experience: The platform ensures a reliable pool of skilled professionals, enhancing customer satisfaction by matching service seekers with competent providers efficiently and effectively.
 
 
 ## Conclusion: 
